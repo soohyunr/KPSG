@@ -3,7 +3,7 @@
 This project aims to build a system that can represent Korean linguistic knowledge using a constraint-based grammar called
 Head-Driven Phrase Structure Grammar. Even though there has been a project (Kim & Yang, 2003) to implement Korean
 Phrase Structure Grammar(KPSG) into Linguistic Knowledge Building (LKB) system, which is Prolog-based grammar and
-lexicon development environment, the present project has some different points. First, the previous system requires all lexicon
+lexicon development environment, the present project has some differences. First, the previous system requires all lexicon
 items to be stored in the system. Also, Hangul, the original Korean alphabet is not able to be used as input of the system.
 To suggest a dierent approach, the current project project integrates KoNlpy (Park & Cho, 2014), a Python package for
 natural language processing of the Korean language so that Hangul can be dealt properly in the system and that the need
